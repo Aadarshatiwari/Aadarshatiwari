@@ -2,15 +2,15 @@
 
 **Developer · AI enthusiast · Engineering student · Nepal 🇳🇵**
 
-I’m a 19-year-old developer from Nepal studying engineering. I build websites and browser games, and I’m exploring how AI can help turn ideas into useful tools. I enjoy taking an idea from the first sketch to something people can try and improving it along the way.
+I’m a 19-year-old developer from Nepal studying engineering. I build websites, browser games, and practical tools. I enjoy taking an idea from the first sketch to something people can try and improving it along the way.
 
 ---
 
 ## 🛠️ Technologies & tools
 
-<img src="https://skillicons.dev/icons?i=js,html,css,threejs,vite,git&amp;theme=dark" width="290" alt="JavaScript, HTML, CSS, Three.js, Vite, and Git">
+<img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css,threejs,vite,git&amp;theme=dark" width="420" alt="Python, C, C#, JavaScript, HTML, CSS, Three.js, Vite, and Git">
 
-I work with JavaScript, HTML, and CSS for web projects. I’ve used Canvas and Web Audio for 2D graphics and sound, and Three.js, Rapier, and WebRTC for 3D rendering, physics, and real-time multiplayer.
+I work with Python, C, and C#, and use JavaScript, HTML, and CSS for web projects. I’ve used Canvas and Web Audio for 2D graphics and sound, and Three.js, Rapier, and WebRTC for 3D rendering, physics, and real-time multiplayer.
 
 ---
 
