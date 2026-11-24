@@ -6,7 +6,7 @@ I’m a 19-year-old developer from Nepal studying engineering. I build websites,
 
 I’m also interested in mathematics and enjoy working through challenging problems, breaking them down and reasoning from first principles.
 
-<a href="https://www.facebook.com/aadarsha.tiwari.52"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aadarsha.tiwari.7/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadarsha-tiwari-66954131b/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/aadarsha.tiwari.52"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/aadarsha.tiwari.7/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aadarsha-tiwari-66954131b/"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Aadarshatiwari7"><img src="https://cdn.simpleicons.org/x/808080" width="32" height="32" alt="X"></a>
 
 ---
 
