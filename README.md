@@ -4,6 +4,8 @@
 
 I’m a 19-year-old developer from Nepal studying engineering. I build websites, browser games, and practical tools. I enjoy taking an idea from the first sketch to something people can try and improving it along the way.
 
+I’m also interested in mathematics and enjoy working through challenging problems, breaking them down and reasoning from first principles.
+
 ---
 
 ## 🛠️ Technologies & tools
