@@ -1,14 +1,20 @@
-# Aadarsha Tiwari
+# Hi, I’m Aadarsha Tiwari 👋
 
-**Web development · Browser games · Interactive graphics**
+**Engineering student · Nepal 🇳🇵**
 
-I’m Aadarsha Tiwari, a developer who enjoys building things people can try right in their browser. That’s taken me from turning Nepal’s 77 districts into an arcade flight route to experimenting with how spin, drag, and goalkeeper reactions shape a football penalty.
+I’m 19, and I enjoy building things people can try right in their browser. So far, that’s meant turning Nepal’s 77 districts into an arcade flight route and building a football shootout where spin, drag, and goalkeeper reactions shape each kick.
 
-I’m interested in the details that make an interactive project feel good to use, from responsive controls to real-time graphics and multiplayer.
+---
 
-[Browse all repositories →](https://github.com/Aadarshatiwari?tab=repositories)
+## 🛠️ Technologies & tools
 
-## Featured projects
+<img src="https://skillicons.dev/icons?i=js,html,css,threejs,vite,git&amp;theme=dark" width="290" alt="JavaScript, HTML, CSS, Three.js, Vite, and Git">
+
+I use Canvas and Web Audio for 2D games, and Three.js, Rapier, and WebRTC for 3D rendering, physics, and online play.
+
+---
+
+## 🎮 Featured projects
 
 <table>
 <tr>
@@ -28,3 +34,5 @@ I’m interested in the details that make an interactive project feel good to us
 </td>
 </tr>
 </table>
+
+[Browse all repositories →](https://github.com/Aadarshatiwari?tab=repositories)
