@@ -1,8 +1,8 @@
 # Hi, I’m Aadarsha Tiwari 👋
 
-**Engineering student · Nepal 🇳🇵**
+**Developer · AI enthusiast · Engineering student · Nepal 🇳🇵**
 
-I’m 19, and I enjoy building things people can try right in their browser. So far, that’s meant turning Nepal’s 77 districts into an arcade flight route and building a football shootout where spin, drag, and goalkeeper reactions shape each kick.
+I’m a 19-year-old developer from Nepal studying engineering. I build websites and browser games, and I’m exploring how AI can help turn ideas into useful tools. I enjoy taking an idea from the first sketch to something people can try and improving it along the way.
 
 ---
 
@@ -10,7 +10,7 @@ I’m 19, and I enjoy building things people can try right in their browser. So 
 
 <img src="https://skillicons.dev/icons?i=js,html,css,threejs,vite,git&amp;theme=dark" width="290" alt="JavaScript, HTML, CSS, Three.js, Vite, and Git">
 
-I use Canvas and Web Audio for 2D games, and Three.js, Rapier, and WebRTC for 3D rendering, physics, and online play.
+I work with JavaScript, HTML, and CSS for web projects. I’ve used Canvas and Web Audio for 2D graphics and sound, and Three.js, Rapier, and WebRTC for 3D rendering, physics, and real-time multiplayer.
 
 ---
 
